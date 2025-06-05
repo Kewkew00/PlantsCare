@@ -1,0 +1,7 @@
+D:\Ment\20250605\Csanádi Kevin\telepules\telepules\bin\Debug\telepules.exe.config
+D:\Ment\20250605\Csanádi Kevin\telepules\telepules\bin\Debug\telepules.exe
+D:\Ment\20250605\Csanádi Kevin\telepules\telepules\bin\Debug\telepules.pdb
+D:\Ment\20250605\Csanádi Kevin\telepules\telepules\obj\Debug\telepules.csproj.AssemblyReference.cache
+D:\Ment\20250605\Csanádi Kevin\telepules\telepules\obj\Debug\telepules.csproj.CoreCompileInputs.cache
+D:\Ment\20250605\Csanádi Kevin\telepules\telepules\obj\Debug\telepules.exe
+D:\Ment\20250605\Csanádi Kevin\telepules\telepules\obj\Debug\telepules.pdb

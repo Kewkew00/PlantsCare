@@ -1,0 +1,10 @@
+D:\Ment\20250605\Csanádi Kevin\telepulesGUI\telepulesGUI\bin\Debug\telepulesGUI.exe.config
+D:\Ment\20250605\Csanádi Kevin\telepulesGUI\telepulesGUI\bin\Debug\telepulesGUI.exe
+D:\Ment\20250605\Csanádi Kevin\telepulesGUI\telepulesGUI\bin\Debug\telepulesGUI.pdb
+D:\Ment\20250605\Csanádi Kevin\telepulesGUI\telepulesGUI\obj\Debug\telepulesGUI.csproj.AssemblyReference.cache
+D:\Ment\20250605\Csanádi Kevin\telepulesGUI\telepulesGUI\obj\Debug\telepulesGUI.Form1.resources
+D:\Ment\20250605\Csanádi Kevin\telepulesGUI\telepulesGUI\obj\Debug\telepulesGUI.Properties.Resources.resources
+D:\Ment\20250605\Csanádi Kevin\telepulesGUI\telepulesGUI\obj\Debug\telepulesGUI.csproj.GenerateResource.cache
+D:\Ment\20250605\Csanádi Kevin\telepulesGUI\telepulesGUI\obj\Debug\telepulesGUI.csproj.CoreCompileInputs.cache
+D:\Ment\20250605\Csanádi Kevin\telepulesGUI\telepulesGUI\obj\Debug\telepulesGUI.exe
+D:\Ment\20250605\Csanádi Kevin\telepulesGUI\telepulesGUI\obj\Debug\telepulesGUI.pdb
